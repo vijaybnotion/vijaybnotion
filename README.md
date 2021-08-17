@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaybnotion
 - 👀 I’m interested in Electronics.
-- 🌱 I’m currently learning TU Kaiserslautern
+- 🌱 And currently pursuing Masters in Embedded Computing Systems at TU Kaiserslautern.
 - 💞️ I’m looking to collaborate on EDA, FPGA, C, C++ and related projects.
 - 📫 How to reach me vijaybhargava1996@gmail.com
 
